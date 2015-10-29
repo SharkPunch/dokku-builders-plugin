@@ -1,0 +1,6 @@
+[plugin]
+name = "builders-plugin"
+description = "To run tools and package managers on build/release"
+version = "0.1.0"
+website_url = "https://github.com/SharkPunch/dokku-builders-plugin"
+[plugin.config]
